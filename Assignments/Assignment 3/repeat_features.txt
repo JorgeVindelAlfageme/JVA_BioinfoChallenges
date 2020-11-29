@@ -1,0 +1,2086 @@
+Accession code: chromosome:TAIR10:5:22038165:22039568:1
+Gene ID: AT5g54270
+
+FEATURE: myrepeat; @POSITION = 1099..1104
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1311..1316)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(208..213)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:7493213:7496741:1
+Gene ID: AT1g21400
+
+FEATURE: myrepeat; @POSITION = 214..219
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 217..222
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 247..252
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 255..260
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(102..107)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2004..2009)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1572..1577)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:5:6414488:6415907:1
+Gene ID: AT5g19120
+
+FEATURE: myrepeat; @POSITION = 102..107
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 105..110
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 108..113
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 124..129
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 127..132
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:2:5538740:5541479:1
+Gene ID: AT2g13360
+
+FEATURE: myrepeat; @POSITION = 2566..2571
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 2569..2574
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 2005..2010
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 168..173
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:4:2671523:2673243:1
+Gene ID: AT4g05180
+
+FEATURE: myrepeat; @POSITION = complement(483..488)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:8027126:8028168:1
+Gene ID: AT1g22690
+
+FEATURE: myrepeat; @POSITION = complement(206..211)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 883..888
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:2:18624264:18625791:1
+Gene ID: AT2g45170
+
+FEATURE: myrepeat; @POSITION = 1250..1255
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1298..1303
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1374..1379
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(937..942)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 60..65
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 63..68
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 66..71
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 69..74
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:4:6100714:6101864:1
+Gene ID: AT4g09650
+
+FEATURE: myrepeat; @POSITION = 5..10
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 8..13
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 11..16
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 14..19
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 355..360
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 868..873
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1099..1104)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:5:22530007:22530987:1
+Gene ID: AT5g55620
+
+FEATURE: myrepeat; @POSITION = 283..288
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 286..291
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(485..490)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:11214676:11216141:1
+Gene ID: AT1g31330
+
+FEATURE: myrepeat; @POSITION = 992..997
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 493..498
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(3..8)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:30241452:30243176:1
+Gene ID: AT1g80440
+
+FEATURE: myrepeat; @POSITION = 170..175
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 254..259
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 477..482
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 776..781
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1361..1366
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:3:10538005:10540070:1
+Gene ID: AT3g28270
+
+FEATURE: myrepeat; @POSITION = complement(1595..1600)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1507..1512)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1165..1170)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1162..1167)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:4:7521257:7522761:1
+Gene ID: AT4g12800
+
+FEATURE: myrepeat; @POSITION = 916..921
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1044..1049
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1159..1164
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1100..1105)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:5:1129785:1138488:1
+Gene ID: AT5g04140
+
+FEATURE: myrepeat; @POSITION = 7958..7963
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 7979..7984
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 6667..6672
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(5740..5745)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(7267..7272)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 137..142
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 140..145
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 143..148
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 146..151
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 155..160
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 324..329
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 327..332
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 413..418
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 416..421
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(104..109)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(101..106)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 4424..4429
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 6890..6895
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(8692..8697)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(899..904)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3006..3011)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2893..2898)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1011..1016)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:5:25628521:25629708:1
+Gene ID: AT5g64040
+
+FEATURE: myrepeat; @POSITION = 494..499
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 10..15
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:10371675:10374005:1
+Gene ID: AT1g29660
+
+FEATURE: myrepeat; @POSITION = complement(2322..2327)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:5446462:5447880:1
+Gene ID: AT1g15820
+
+FEATURE: myrepeat; @POSITION = complement(563..568)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(155..160)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:23953099:23954610:1
+Gene ID: AT1g64500
+
+FEATURE: myrepeat; @POSITION = complement(739..744)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(728..733)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(552..557)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(398..403)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:753307:754262:1
+Gene ID: AT1g03130
+
+FEATURE: myrepeat; @POSITION = 662..667
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:2:8911860:8913747:1
+Gene ID: AT2g20670
+
+FEATURE: myrepeat; @POSITION = 1226..1231
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1874..1879
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1877..1882
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1880..1885
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1401..1406)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:4:9604962:9607402:1
+Gene ID: AT4g17090
+
+FEATURE: myrepeat; @POSITION = 385..390
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:8398115:8399836:1
+Gene ID: AT1g23740
+
+FEATURE: myrepeat; @POSITION = 979..984
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1227..1232
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1477..1482)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:2:19022154:19027528:1
+Gene ID: AT2g46340
+
+FEATURE: myrepeat; @POSITION = complement(1175..1180)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 258..263
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(220..225)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1899..1904
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1990..1995
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 2436..2441
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(5124..5129)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(5121..5126)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(5118..5123)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(5115..5120)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(5112..5117)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(5109..5114)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(4920..4925)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:4:9739518:9741234:1
+Gene ID: AT4g17460
+
+FEATURE: myrepeat; @POSITION = complement(1015..1020)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1600..1605
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1692..1697
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 430..435
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(197..202)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(834..839)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:2152798:2155269:1
+Gene ID: AT1g07010
+
+FEATURE: myrepeat; @POSITION = 219..224
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 222..227
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1113..1118)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2455..2460)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:11607854:11609968:1
+Gene ID: AT1g32220
+
+FEATURE: myrepeat; @POSITION = 1678..1683
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1710..1715)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1050..1055
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1349..1354
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:2:1147774:1149261:1
+Gene ID: AT2g03750
+
+FEATURE: myrepeat; @POSITION = 419..424
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 422..427
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1172..1177
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(965..970)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(81..86)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:3:17493343:17495033:1
+Gene ID: AT3g47470
+
+FEATURE: myrepeat; @POSITION = complement(1479..1484)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:4:7531141:7533587:1
+Gene ID: AT4g12830
+
+FEATURE: myrepeat; @POSITION = complement(1666..1671)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2120..2125)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:5:1702640:1706948:1
+Gene ID: AT5g05690
+
+FEATURE: myrepeat; @POSITION = 3559..3564
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(4091..4096)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(4072..4077)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(4069..4074)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3710..3715)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 260..265
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 263..268
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(203..208)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(200..205)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3276..3281)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3259..3264)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 4198..4203
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 4201..4206
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 4270..4275
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 3056..3061
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(2974..2979)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:5:25750845:25755501:1
+Gene ID: AT5g64410
+
+FEATURE: myrepeat; @POSITION = 4079..4084
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 4650..4655
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1616..1621)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:2:9128122:9130619:1
+Gene ID: AT2g21330
+
+FEATURE: myrepeat; @POSITION = complement(819..824)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(213..218)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1050..1055
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:5489145:5491363:1
+Gene ID: AT1g15980
+
+FEATURE: myrepeat; @POSITION = 174..179
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 445..450
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 483..488
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(314..319)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(311..316)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:2:396756:399338:1
+Gene ID: AT2g01890
+
+FEATURE: myrepeat; @POSITION = 2247..2252
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:4159227:4161506:1
+Gene ID: AT1g12250
+
+FEATURE: myrepeat; @POSITION = 1750..1755
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1952..1957
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 3..8
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:2:9084628:9086029:1
+Gene ID: AT2g21210
+
+FEATURE: myrepeat; @POSITION = 981..986
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:4:14149849:14151163:1
+Gene ID: AT4g28660
+
+FEATURE: myrepeat; @POSITION = complement(1074..1079)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 110..115
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:19454798:19455668:1
+Gene ID: AT1g52230
+
+FEATURE: myrepeat; @POSITION = complement(21..26)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:3:6510982:6515108:1
+Gene ID: AT3g18890
+
+FEATURE: myrepeat; @POSITION = complement(770..775)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(767..772)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 3786..3791
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 3789..3794
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 2145..2150
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(171..176)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(168..173)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(165..170)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1693..1698)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:4:12006986:12009536:1
+Gene ID: AT4g22890
+
+FEATURE: myrepeat; @POSITION = 2433..2438
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(2290..2295)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 242..247
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 333..338
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(324..329)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1981..1986
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1851..1856
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1063..1068)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:3999157:4000024:1
+Gene ID: AT1g11850
+
+FEATURE: myrepeat; @POSITION = complement(752..757)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:14158452:14161938:1
+Gene ID: AT1g37130
+
+FEATURE: myrepeat; @POSITION = 1175..1180
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1205..1210)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(967..972)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(772..777)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2260..2265)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2098..2103)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2035..2040)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:2:1333133:1334566:1
+Gene ID: AT2g04039
+
+FEATURE: myrepeat; @POSITION = 187..192
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 408..413
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(296..301)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(766..771)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(670..675)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(667..672)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:3:17929581:17931713:1
+Gene ID: AT3g48420
+
+FEATURE: myrepeat; @POSITION = 209..214
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 212..217
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 215..220
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 218..223
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:4:10481619:10483879:1
+Gene ID: AT4g19170
+
+FEATURE: myrepeat; @POSITION = 230..235
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 233..238
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 274..279
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:5:2180501:2182538:1
+Gene ID: AT5g07020
+
+FEATURE: myrepeat; @POSITION = 1824..1829
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1862..1867)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1845..1850)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1842..1847)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1664..1669)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:5:25969035:25972575:1
+Gene ID: AT5g65010
+
+FEATURE: myrepeat; @POSITION = 1007..1012
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(2904..2909)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:3:194426:198664:1
+Gene ID: AT3g01500
+
+FEATURE: myrepeat; @POSITION = 2247..2252
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 3659..3664
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 3720..3725
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(4184..4189)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(4064..4069)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3420..3425)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3361..3366)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3328..3333)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3325..3330)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1942..1947
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:8840203:8842445:1
+Gene ID: AT1g25230
+
+FEATURE: myrepeat; @POSITION = complement(1317..1322)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2035..2040)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:2:14524607:14525918:1
+Gene ID: AT2g34430
+
+FEATURE: myrepeat; @POSITION = complement(1116..1121)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:6211832:6213591:1
+Gene ID: AT1g18060
+
+FEATURE: myrepeat; @POSITION = complement(1441..1446)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:2:13036814:13041684:1
+Gene ID: AT2g30600
+
+FEATURE: myrepeat; @POSITION = complement(2465..2470)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1374..1379
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 3..8
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 6..11
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 44..49
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:4:15926652:15931422:1
+Gene ID: AT4g33010
+
+FEATURE: myrepeat; @POSITION = 3789..3794
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:24354646:24355490:1
+Gene ID: AT1g65490
+
+FEATURE: myrepeat; @POSITION = 192..197
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 445..450
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 767..772
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:3:7626757:7629205:1
+Gene ID: AT3g21670
+
+FEATURE: myrepeat; @POSITION = complement(2347..2352)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 168..173
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 745..750
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 965..970
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1400..1405
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1378..1383)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(322..327)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 2067..2072
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:4:13653579:13656285:1
+Gene ID: AT4g27260
+
+FEATURE: myrepeat; @POSITION = complement(1256..1261)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:4355926:4358894:1
+Gene ID: AT1g12780
+
+FEATURE: myrepeat; @POSITION = 2013..2018
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 2587..2592
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(2365..2370)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2288..2293)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2219..2224)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2203..2208)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2200..2205)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(188..193)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:20713499:20715611:1
+Gene ID: AT1g55480
+
+FEATURE: myrepeat; @POSITION = 232..237
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 466..471
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(568..573)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(565..570)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(80..85)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1235..1240)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1440..1445)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1590..1595)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1905..1910
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:2:7766765:7768040:1
+Gene ID: AT2g17880
+
+FEATURE: myrepeat; @POSITION = complement(1001..1006)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(882..887)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(869..874)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(846..851)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(843..848)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(840..845)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(837..842)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(834..839)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(484..489)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:3:18221794:18224905:1
+Gene ID: AT3g49160
+
+FEATURE: myrepeat; @POSITION = 2536..2541
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(3055..3060)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3052..3057)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3049..3054)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3046..3051)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3043..3048)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3017..3022)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3014..3019)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3011..3016)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3008..3013)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3005..3010)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3002..3007)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2999..3004)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2996..3001)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2993..2998)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1697..1702
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1815..1820
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1847..1852
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1912..1917
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:4:11306945:11308925:1
+Gene ID: AT4g21210
+
+FEATURE: myrepeat; @POSITION = complement(1400..1405)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:5:4757856:4762666:1
+Gene ID: AT5g14740
+
+FEATURE: myrepeat; @POSITION = 246..251
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 249..254
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 252..257
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 289..294
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 292..297
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(370..375)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 4672..4677
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(2720..2725)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1184..1189
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(3002..3007)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2909..2914)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:4:17852441:17854608:1
+Gene ID: AT4g37980
+
+FEATURE: myrepeat; @POSITION = 1258..1263
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1346..1351
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1619..1624
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1622..1627
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:10288129:10289666:1
+Gene ID: AT1g29395
+
+FEATURE: myrepeat; @POSITION = 369..374
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:2:16570746:16573692:1
+Gene ID: AT2g39730
+
+FEATURE: myrepeat; @POSITION = complement(31..36)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2669..2674)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2666..2671)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2635..2640)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1577..1582)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1930..1935
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1967..1972
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(2016..2021)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1179..1184
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:6942625:6945091:1
+Gene ID: AT1g20020
+
+FEATURE: myrepeat; @POSITION = complement(724..729)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 105..110
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 273..278
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 276..281
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 2383..2388
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(2209..2214)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2197..2202)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:4:17775370:17777445:1
+Gene ID: AT4g37800
+
+FEATURE: myrepeat; @POSITION = 1698..1703
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:26705420:26708265:1
+Gene ID: AT1g70820
+
+FEATURE: myrepeat; @POSITION = 1724..1729
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1166..1171
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:3:9827682:9828917:1
+Gene ID: AT3g26740
+
+FEATURE: myrepeat; @POSITION = 78..83
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 155..160
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 220..225
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 233..238
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 265..270
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:4:14215473:14217909:1
+Gene ID: AT4g28780
+
+FEATURE: myrepeat; @POSITION = 1889..1894
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 2384..2389
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 936..941
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:4392438:4394454:1
+Gene ID: AT1g12900
+
+FEATURE: myrepeat; @POSITION = complement(1648..1653)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1938..1943)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 436..441
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1322..1327)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 941..946
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:24035941:24037429:1
+Gene ID: AT1g64680
+
+FEATURE: myrepeat; @POSITION = 121..126
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(320..325)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(317..322)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(314..319)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(94..99)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1143..1148
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1308..1313
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:2:10736261:10737800:1
+Gene ID: AT2g25200
+
+FEATURE: myrepeat; @POSITION = 382..387
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1028..1033
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(905..910)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(427..432)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:3:20709294:20711640:1
+Gene ID: AT3g55800
+
+FEATURE: myrepeat; @POSITION = complement(1084..1089)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 201..206
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 311..316
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 314..319
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 867..872
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1425..1430
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:4:11334352:11335815:1
+Gene ID: AT4g21280
+
+FEATURE: myrepeat; @POSITION = complement(1156..1161)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1153..1158)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 933..938
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(989..994)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:5:5176091:5177897:1
+Gene ID: AT5g15850
+
+FEATURE: myrepeat; @POSITION = 990..995
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 993..998
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1657..1662
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1449..1454)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(611..616)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 291..296
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 381..386
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 384..389
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:2047634:2049439:1
+Gene ID: AT1g06680
+
+FEATURE: myrepeat; @POSITION = 698..703
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(849..854)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1534..1539
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1771..1776)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(89..94)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:2:18073305:18073651:1
+Gene ID: AT2g43550
+
+FEATURE: myrepeat; @POSITION = 36..41
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:16127353:16129895:1
+Gene ID: AT1g42970
+
+FEATURE: myrepeat; @POSITION = 178..183
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:2:16476198:16477843:1
+Gene ID: AT2g39470
+
+FEATURE: myrepeat; @POSITION = 539..544
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:5:5690225:5692992:1
+Gene ID: AT5g17300
+
+FEATURE: myrepeat; @POSITION = complement(2687..2692)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2654..2659)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2651..2656)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2648..2653)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2630..2635)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2627..2632)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2539..2544)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2536..2541)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1524..1529
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1751..1756)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 184..189
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 237..242
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 240..245
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 262..267
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 489..494
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 531..536
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:29117500:29121093:1
+Gene ID: AT1g77490
+
+FEATURE: myrepeat; @POSITION = complement(1178..1183)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 143..148
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 334..339
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 3156..3161
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(2392..2397)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(524..529)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:3:10255906:10257489:1
+Gene ID: AT3g27690
+
+FEATURE: myrepeat; @POSITION = 59..64
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 122..127
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(89..94)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1566..1571
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:24046553:24048822:1
+Gene ID: AT1g64720
+
+FEATURE: myrepeat; @POSITION = complement(2065..2070)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2062..2067)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1769..1774)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 213..218
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 626..631
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(43..48)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1341..1346)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1142..1147)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:2:11109003:11114291:1
+Gene ID: AT2g26080
+
+FEATURE: myrepeat; @POSITION = 4056..4061
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 4059..4064
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(4692..4697)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 3174..3179
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(3235..3240)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:3:21076505:21078443:1
+Gene ID: AT3g56940
+
+FEATURE: myrepeat; @POSITION = 30..35
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1231..1236
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1668..1673
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 282..287
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(442..447)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(249..254)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:4:13937573:13939171:1
+Gene ID: AT4g28030
+
+FEATURE: myrepeat; @POSITION = 1587..1592
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:5:6833564:6836862:1
+Gene ID: AT5g20250
+
+FEATURE: myrepeat; @POSITION = 318..323
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1481..1486)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1478..1483)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1290..1295)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1232..1237)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(636..641)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(633..638)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(630..635)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3285..3290)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:20170715:20173949:1
+Gene ID: AT1g54040
+
+FEATURE: myrepeat; @POSITION = 424..429
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:3:7703799:7704958:1
+Gene ID: AT3g21870
+
+FEATURE: myrepeat; @POSITION = complement(288..293)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:3:17907767:17910738:1
+Gene ID: AT3g48360
+
+FEATURE: myrepeat; @POSITION = 667..672
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 680..685
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 746..751
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1533..1538
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(2760..2765)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2727..2732)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2724..2729)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2721..2726)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2301..2306)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:22699715:22701412:1
+Gene ID: AT1g61520
+
+FEATURE: myrepeat; @POSITION = 460..465
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 810..815
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1165..1170
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1506..1511
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(534..539)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:2:17886101:17889087:1
+Gene ID: AT2g43010
+
+FEATURE: myrepeat; @POSITION = 369..374
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 372..377
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(346..351)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(176..181)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1268..1273
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1162..1167)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:5:7664871:7667288:1
+Gene ID: AT5g22920
+
+FEATURE: myrepeat; @POSITION = complement(1085..1090)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:29484120:29485389:1
+Gene ID: AT1g78370
+
+FEATURE: myrepeat; @POSITION = 771..776
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 585..590
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 596..601
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:3:10524181:10526733:1
+Gene ID: AT3g28220
+
+FEATURE: myrepeat; @POSITION = 2243..2248
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(782..787)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(265..270)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:5:3516092:3517035:1
+Gene ID: AT5g11070
+
+FEATURE: myrepeat; @POSITION = complement(893..898)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:8233953:8235019:1
+Gene ID: AT1g23205
+
+FEATURE: myrepeat; @POSITION = 223..228
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(865..870)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(862..867)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(859..864)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(249..254)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(246..251)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:25493193:25496053:1
+Gene ID: AT1g68010
+
+FEATURE: myrepeat; @POSITION = complement(2539..2544)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(902..907)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(454..459)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:3:22745514:22747444:1
+Gene ID: AT3g61470
+
+FEATURE: myrepeat; @POSITION = 175..180
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 242..247
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1762..1767
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1868..1873
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(631..636)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(628..633)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:4:14202758:14204061:1
+Gene ID: AT4g28750
+
+FEATURE: myrepeat; @POSITION = 205..210
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(966..971)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:5:8217191:8219720:1
+Gene ID: AT5g24210
+
+FEATURE: myrepeat; @POSITION = complement(650..655)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1954..1959
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:26795052:26796532:1
+Gene ID: AT1g71030
+
+FEATURE: myrepeat; @POSITION = complement(544..549)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(415..420)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(344..349)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1360..1365)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(847..852)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:3:20016837:20018822:1
+Gene ID: AT3g54050
+
+FEATURE: myrepeat; @POSITION = 151..156
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(535..540)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(334..339)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1259..1264)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:3:20339504:20341176:1
+Gene ID: AT3g54890
+
+FEATURE: myrepeat; @POSITION = 471..476
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 522..527
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 525..530
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1356..1361)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:27339114:27340044:1
+Gene ID: AT1g72610
+
+FEATURE: myrepeat; @POSITION = 219..224
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:3:2717557:2718923:1
+Gene ID: AT3g08940
+
+FEATURE: myrepeat; @POSITION = complement(936..941)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 189..194
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:5:25016860:25018265:1
+Gene ID: AT5g62280
+
+FEATURE: myrepeat; @POSITION = complement(1209..1214)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:2:8108898:8112010:1
+Gene ID: AT2g18700
+
+FEATURE: myrepeat; @POSITION = 11..16
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 14..19
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 17..22
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 35..40
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 136..141
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 599..604
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1193..1198
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 2387..2392
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(2346..2351)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:3:16816721:16824210:1
+Gene ID: AT3g45780
+
+FEATURE: myrepeat; @POSITION = complement(4145..4150)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(4090..4095)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(4087..4092)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2516..2521)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2128..2133)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(6453..6458)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(6450..6455)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3913..3918)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(4754..4759)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 45..50
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(4599..4604)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 5770..5775
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(5973..5978)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:5:6225956:6228195:1
+Gene ID: AT5g18670
+
+FEATURE: myrepeat; @POSITION = complement(745..750)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1423..1428
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:25746697:25750291:1
+Gene ID: AT1g68570
+
+FEATURE: myrepeat; @POSITION = complement(146..151)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 787..792
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 790..795
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:2:13174279:13177223:1
+Gene ID: AT2g30950
+
+FEATURE: myrepeat; @POSITION = 556..561
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 975..980
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1203..1208
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(587..592)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(580..585)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(573..578)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(570..575)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 2734..2739
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1735..1740)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 394..399
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:3:23090944:23091580:1
+Gene ID: AT3g62410
+
+FEATURE: myrepeat; @POSITION = 8..13
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(375..380)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(372..377)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:4:16167257:16168711:1
+Gene ID: AT4g33660
+
+FEATURE: myrepeat; @POSITION = 952..957
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1449..1454
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1207..1212)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:5:13419080:13423882:1
+Gene ID: AT5g35170
+
+FEATURE: myrepeat; @POSITION = 239..244
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 242..247
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1291..1296
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1916..1921)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(4279..4284)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3450..3455)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3438..3443)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 79..84
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:3:5506931:5508414:1
+Gene ID: AT3g16250
+
+FEATURE: myrepeat; @POSITION = 1400..1405
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1287..1292)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:3015237:3018542:1
+Gene ID: AT1g09340
+
+FEATURE: myrepeat; @POSITION = complement(856..861)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1436..1441)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2924..2929)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2741..2746)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2504..2509)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2501..2506)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 271..276
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 289..294
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 481..486
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 591..596
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(38..43)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(24..29)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:3:23326867:23328789:1
+Gene ID: AT3g63140
+
+FEATURE: myrepeat; @POSITION = complement(99..104)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1515..1520
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1619..1624)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1616..1621)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1613..1618)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1610..1615)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1607..1612)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1604..1609)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1601..1606)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 422..427
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:28547786:28549586:1
+Gene ID: AT1g76080
+
+FEATURE: myrepeat; @POSITION = 1065..1070
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1541..1546)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:3:17228642:17231229:1
+Gene ID: AT3g46780
+
+FEATURE: myrepeat; @POSITION = complement(2573..2578)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2303..2308)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2289..2294)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2013..2018)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1926..1931)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:564018:567771:1
+Gene ID: AT1g02640
+
+FEATURE: myrepeat; @POSITION = complement(1902..1907)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1822..1827)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 314..319
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 317..322
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 643..648
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(2094..2099)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3402..3407)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2923..2928)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:2:14308754:14310608:1
+Gene ID: AT2g33830
+
+FEATURE: myrepeat; @POSITION = 81..86
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:3:17437840:17441431:1
+Gene ID: AT3g47340
+
+FEATURE: myrepeat; @POSITION = 662..667
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 3566..3571
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:5:13830429:13833542:1
+Gene ID: AT5g35630
+
+FEATURE: myrepeat; @POSITION = complement(900..905)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 2111..2116
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1554..1559)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2325..2330)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 295..300
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 318..323
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:26315787:26320233:1
+Gene ID: AT1g69870
+
+FEATURE: myrepeat; @POSITION = complement(4338..4343)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3515..3520)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3506..3511)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(3189..3194)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 450..455
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:2:19616975:19617681:1
+Gene ID: AT2g47930
+
+FEATURE: myrepeat; @POSITION = complement(331..336)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(287..292)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(148..153)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(112..117)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:4:1112082:1114158:1
+Gene ID: AT4g02530
+
+FEATURE: myrepeat; @POSITION = 1722..1727
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1788..1793
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1853..1858
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(136..141)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(14..19)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:4:18124978:18125559:1
+Gene ID: AT4g38840
+
+FEATURE: myrepeat; @POSITION = complement(418..423)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(415..420)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:3:18890874:18892508:1
+Gene ID: AT3g50820
+
+FEATURE: myrepeat; @POSITION = 827..832
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 560..565
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(88..93)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:4:17670481:17672353:1
+Gene ID: AT4g37610
+
+FEATURE: myrepeat; @POSITION = complement(318..323)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1415..1420
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1441..1446
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 757..762
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1070..1075)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1867..1872)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:28553883:28554930:1
+Gene ID: AT1g76100
+
+FEATURE: myrepeat; @POSITION = complement(811..816)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:3:22675061:22676851:1
+Gene ID: AT3g61260
+
+FEATURE: myrepeat; @POSITION = 520..525
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 695..700
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:2640803:2641934:1
+Gene ID: AT1g08380
+
+FEATURE: myrepeat; @POSITION = 942..947
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(356..361)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:2:16006749:16007722:1
+Gene ID: AT2g38210
+
+FEATURE: myrepeat; @POSITION = complement(604..609)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:4:2350498:2352025:1
+Gene ID: AT4g04640
+
+FEATURE: myrepeat; @POSITION = 575..580
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 740..745
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 788..793
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 870..875
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1127..1132
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1468..1473)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1461..1466)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1458..1463)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(212..217)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(209..214)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(206..211)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:5:15608685:15611664:1
+Gene ID: AT5g38990
+
+FEATURE: myrepeat; @POSITION = 16..21
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 505..510
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1138..1143
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(2573..2578)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2570..2575)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1541..1546)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1538..1543)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:28078852:28079987:1
+Gene ID: AT1g74730
+
+FEATURE: myrepeat; @POSITION = complement(1103..1108)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(967..972)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(627..632)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:3:1695156:1696708:1
+Gene ID: AT3g05730
+
+FEATURE: myrepeat; @POSITION = complement(1304..1309)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 289..294
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 547..552
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(467..472)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:4:1229031:1230164:1
+Gene ID: AT4g02770
+
+FEATURE: myrepeat; @POSITION = 657..662
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:4:18426492:18428578:1
+Gene ID: AT4g39710
+
+FEATURE: myrepeat; @POSITION = 1836..1841
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1767..1772)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1759..1764)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1756..1761)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1753..1758)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1723..1728)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1651..1656)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:5:19570238:19572804:1
+Gene ID: AT5g48300
+
+FEATURE: myrepeat; @POSITION = complement(509..514)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(2489..2494)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:5:19647784:19648362:1
+Gene ID: AT5g48490
+
+FEATURE: myrepeat; @POSITION = 440..445
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:1:7084409:7086873:1
+Gene ID: AT1g20440
+
+FEATURE: myrepeat; @POSITION = 407..412
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 728..733
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 731..736
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 734..739
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 743..748
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 757..762
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1134..1139
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(923..928)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:5:426226:427461:1
+Gene ID: AT5g02160
+
+FEATURE: myrepeat; @POSITION = 802..807
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 842..847
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1137..1142
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 114..119
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 117..122
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 228..233
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 285..290
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:2:2033154:2034283:1
+Gene ID: AT2g05540
+
+FEATURE: myrepeat; @POSITION = 154..159
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:3:23135630:23137173:1
+Gene ID: AT3g62550
+
+FEATURE: myrepeat; @POSITION = 475..480
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 490..495
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(860..865)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1267..1272
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1422..1427)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:4877506:4879307:1
+Gene ID: AT1g14280
+
+FEATURE: myrepeat; @POSITION = 171..176
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 249..254
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 252..257
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 261..266
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1420..1425)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(987..992)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(984..989)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(981..986)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(951..956)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(840..845)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(770..775)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(754..759)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(674..679)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(593..598)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(590..595)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:2:17920647:17921844:1
+Gene ID: AT2g43100
+
+FEATURE: myrepeat; @POSITION = 94..99
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1078..1083
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:4:5777397:5779572:1
+Gene ID: AT4g09010
+
+FEATURE: myrepeat; @POSITION = complement(1861..1866)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1858..1863)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(1776..1781)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 992..997
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 333..338
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(1578..1583)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:5:20011812:20016857:1
+Gene ID: AT5g49360
+
+FEATURE: myrepeat; @POSITION = complement(212..217)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1931..1936
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(4461..4466)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:10722183:10723247:1
+Gene ID: AT1g30380
+
+FEATURE: myrepeat; @POSITION = complement(998..1003)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:1:29518184:29519323:1
+Gene ID: AT1g78460
+
+FEATURE: myrepeat; @POSITION = 637..642
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:3:5467987:5469594:1
+Gene ID: AT3g16140
+
+FEATURE: myrepeat; @POSITION = complement(656..661)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(496..501)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(461..466)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(294..299)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = 1522..1527
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:4:7309898:7312684:1
+Gene ID: AT4g12310
+
+FEATURE: myrepeat; @POSITION = 1737..1742
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1805..1810
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1876..1881
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 953..958
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
+Accession code: chromosome:TAIR10:5:208866:210548:1
+Gene ID: AT5g01530
+
+FEATURE: myrepeat; @POSITION = 1261..1266
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 250..255
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = complement(333..338)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+FEATURE: myrepeat; @POSITION = complement(330..335)
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"-"}
+
+Accession code: chromosome:TAIR10:5:23560568:23562001:1
+Gene ID: AT5g58260
+
+FEATURE: myrepeat; @POSITION = 1241..1246
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1244..1249
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1294..1299
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+FEATURE: myrepeat; @POSITION = 1380..1385
+Associations = {"repeat_motif"=>"CTTCTT", "strand"=>"+"}
+
