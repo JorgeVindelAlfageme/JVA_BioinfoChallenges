@@ -1,0 +1,219 @@
+# Every prefix is included at sparql.uniprot.org/sparql. The prefixes used in
+# each case will be indicated to form the correspondent queries.
+
+# The original queries on which the following ones were based were found at:
+# https://sparql.uniprot.org/.well-known/sparql-examples/
+# https://sparql.uniprot.org/.well-known/sparql-examples/?offset=18
+# https://sparql.uniprot.org/.well-known/sparql-examples/?query=&offset=43
+# https://rdf.metanetx.org/
+# https://lists.w3.org/Archives/Public/semantic-web/2016Dec/0032.html
+
+# The UniProt RDF schema can be found at:
+# https://sparql.uniprot.org/uniprot
+
+# Q1: 1 POINT: How many protein records are in UniProt?
+# Based on queries number 1, 5 and 17 at:
+# https://sparql.uniprot.org/.well-known/sparql-examples/
+
+PREFIX up: <http://purl.uniprot.org/core/>
+
+select (count (distinct ?protein) as ?proteinCount)
+
+where
+{
+	?protein a up:Protein .
+}
+
+# Result Q1: "322278757"xsd:int
+
+# Q2: 1 POINT: How many Arabidopsis thaliana protein records are in UniProt?
+# Based on queries number 2 and 8 at:
+# https://sparql.uniprot.org/.well-known/sparql-examples/
+
+PREFIX up: <http://purl.uniprot.org/core/>
+
+select (count (distinct ?protein) as ?proteinCount)
+
+where
+{
+	?protein a up:Protein .
+	?protein up:organism ?organism .
+	?organism up:scientificName "Arabidopsis thaliana" .
+}
+
+# Result Q2: "121693"xsd:int
+
+# Q3: 1 POINT: Retrieve pictures of Arabidopsis thaliana from UniProt.
+# Based on queries number 2 at:
+# https://sparql.uniprot.org/.well-known/sparql-examples/
+# and number 46 at:
+# https://sparql.uniprot.org/.well-known/sparql-examples/?query=&offset=43
+
+PREFIX up: <http://purl.uniprot.org/core/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+select distinct ?image
+where
+{
+	?organism up:scientificName "Arabidopsis thaliana" .
+	?organism foaf:depiction ?image .
+}
+
+# Result Q3 (links):
+# https://upload.wikimedia.org/wikipedia/commons/3/39/Arabidopsis.jpg
+# https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Arabidopsis_thaliana_inflorescencias.jpg/800px-Arabidopsis_thaliana_inflorescencias.jpg
+
+# Q4: 1 POINT: What is the description of the enzyme activity of UniProt
+# Protein Q9SZZ8?
+# Based on queries number 39 at:
+# https://sparql.uniprot.org/.well-known/sparql-examples/?offset=18
+# and queries number 4 and 18 at:
+# https://sparql.uniprot.org/.well-known/sparql-examples/
+
+PREFIX up: <http://purl.uniprot.org/core/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+select ?label
+where
+{
+	uniprotkb:Q9SZZ8 up:enzyme ?enzyme .
+	?enzyme up:activity ?activity .
+	?activity rdfs:label ?label .
+}
+
+# Result Q4: "Beta-carotene + 4 reduced ferredoxin [iron-sulfur] cluster +
+# 2 H(+) + 2 O(2) = zeaxanthin +
+# 4 oxidized ferredoxin [iron-sulfur] cluster + 2 H(2)O."xsd:string
+
+# Q5: 1 POINT: Retrieve the proteins ids, and date of submission, for
+# proteins that have been added to UniProt this year (HINT: Google for
+# "SPARQL FILTER by date").
+# Based on query number 12 at:
+# https://sparql.uniprot.org/.well-known/sparql-examples/
+# and query number 1 at:
+# https://lists.w3.org/Archives/Public/semantic-web/2016Dec/0032.html
+
+PREFIX up: <http://purl.uniprot.org/core/>
+
+select distinct ?proteinID ?submissionDate
+
+where
+{
+	?protein a up:Protein .
+    	?protein up:created ?submissionDate .
+	filter (?submissionDate >= "2020-01-01T00:00:00+00:00"^^xsd:dateTime)
+	bind (substr(str(?protein),33) as ?proteinID)
+}
+
+# Q6: 1 POINT: How many species are in the UniProt taxonomy?
+# Based on some of the previous queries.
+
+PREFIX up: <http://purl.uniprot.org/core/>
+
+select (count (distinct ?species) as ?speciesCount)
+where
+{
+	?species a up:Taxon .
+	?species up:rank up:Species .
+}
+
+# Result Q6: "1853022"xsd:int
+
+# Q7: 2 POINTS: How many species have at least one protein record? (this
+# might take a long time to execute, so do this one last!).
+# Based on some of the previous queries.
+
+PREFIX up: <http://purl.uniprot.org/core/>
+
+select (count (distinct ?species) as ?speciesCount)
+
+where
+{
+	?protein a up:Protein .
+	?protein up:organism ?species .
+	?species up:rank up:Species .
+}
+
+# Results Q7: "1028449"xsd:int
+
+# Q8: 3 POINTS: Find the AGI codes and gene names for all Arabidopsis
+# thaliana proteins that have a function annotation description that
+# mentions "pattern formation".
+# Based on previous queries and query number 9 at:
+# https://sparql.uniprot.org/.well-known/sparql-examples/
+
+PREFIX up: <http://purl.uniprot.org/core/>
+
+select distinct ?AGI ?geneName
+
+where
+{
+	?protein a up:Protein .
+	?protein up:organism ?organism .
+	?organism up:scientificName "Arabidopsis thaliana" .
+	?protein up:encodedBy ?gene .
+	?gene skos:prefLabel ?geneName .
+  	?gene up:locusName ?AGI .
+  	?protein up:annotation ?annotation .
+    	?annotation rdfs:comment ?text .
+    	filter (contains(?text, "pattern formation"))
+}
+
+# Q9: 4 POINTS: What is the MetaNetX Reaction identifier (starts with
+# "mnxr") for the UniProt Protein uniprotkb:Q18A79.
+# Based on query number 12 at:
+# https://rdf.metanetx.org/
+
+PREFIX mnx: <https://rdf.metanetx.org/schema/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX uniprotkb: <http://purl.uniprot.org/uniprot/>
+
+select distinct ?mnxr
+
+where
+{
+    ?protein mnx:peptXref uniprotkb:Q18A79 .
+    ?cata mnx:pept ?protein .
+    ?gpr mnx:cata ?cata ;
+         mnx:reac ?reaction .
+    ?reaction rdfs:label ?mnxr .
+}
+
+# Results Q9: "mnxr145046c3"xsd:string
+
+# Q10: 5 POINTS: What is the official Gene ID (UniProt calls this a
+"mnemonic") and the MetaNetX Reaction Identifier (mnxr...) for the
+protein that has "Starch synthase" catalytic activity in Clostridium
+difficile (taxon 272563)?
+# Based on some of the previous queries and query number 22 at:
+# https://sparql.uniprot.org/.well-known/sparql-examples/
+
+PREFIX up: <http://purl.uniprot.org/core/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX mnx: <https://rdf.metanetx.org/schema/>
+PREFIX uniprotkb: <http://purl.uniprot.org/uniprot/>
+
+select distinct ?mnemonic ?biotype ?mnxr
+where
+{
+  service <http://sparql.uniprot.org/sparql> {
+	?protein a up:Protein .
+   	?protein up:organism taxon:272563 .
+  	?protein up:mnemonic ?mnemonic .
+ 	?protein up:classifiedWith ?goTerm .
+	?goTerm rdfs:label ?biotype .
+	filter (contains(?biotype, "starch synthase"))
+  	bind (substr(str(?protein),33) as ?proteinID)
+  	bind (iri(concat(uniprotkb:,?proteinID)) as ?uniprotURI)
+  }
+  service <https://rdf.metanetx.org/sparql> {
+    ?peptide mnx:peptXref ?uniprotURI .
+    ?cata mnx:pept ?peptide .
+    ?gpr mnx:cata ?cata ;
+         mnx:reac ?reaction .
+    ?reaction rdfs:label ?mnxr .
+  }
+}
+
+# Result Q10:
+# "GLGA_CLOD6"xsd:string "starch synthase activity"xsd:string "mnxr145046c3"xsd:string
